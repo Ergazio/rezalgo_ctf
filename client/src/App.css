@@ -1,0 +1,17 @@
+.App-header{
+  text-align: center;
+  padding : 2rem 0 2rem 0;
+  background-color: lightblue;
+}
+
+.App{
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+
+.flex{
+  display: flex;
+  justify-content: space-around;
+  height: 100%;
+}
